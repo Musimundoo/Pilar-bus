@@ -1,0 +1,9 @@
+{
+  "name": "pilarbus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Build de PilarBus: OK\"",
+    "test": "echo \"Tests de PilarBus: OK\""
+  }
+}
