@@ -147,10 +147,10 @@ npm test
 
 | Integrante | Rol |
 |---|---|
-| faltaria esto | Scrum Master |
-| faltaria esto | Product Owner |
-| faltaria esto | Desarrollador |
-| faltaria esto | Tester |
+| faltaria esto muchachos | Scrum Master |
+| faltaria esto muchachos | Product Owner |
+| faltaria esto muchachos | Desarrollador |
+| faltaria esto muchachos | Tester |
 
 Tablero de Trello: [PilarBus en Trello](https://trello.com/b/sxszQVsW/pilarbus)
 
